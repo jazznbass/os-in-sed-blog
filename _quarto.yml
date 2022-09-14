@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "OS in SED"
+  title: "OS in SE"
+  favicon: "images/favicon.png"
   navbar:
     right:
       - faq.qmd
