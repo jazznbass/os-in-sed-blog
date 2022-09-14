@@ -6,8 +6,7 @@ website:
   title: "OS in SED"
   navbar:
     right:
-      - discuss.qmd
-      - about.qmd
+      - faq.qmd
       - icon: github
         href: https://github.com/jazznbass/os-in-sed-blog/
 format:

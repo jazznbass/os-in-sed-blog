@@ -1,14 +1,17 @@
 ---
-title: "Über uns"
-image: images/paste-BC992E03.png
-about:
-  template: jolla
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/jazznbass/os-in-sed-blog
+title: "FAQ"
+comments: 
+  giscus: 
+    repo: jazznbass/os-in-sed-blog
 ---
+
+
+## Warum gibt es diesen Blog?
 
 Dieser Blog möchte dazu beitragen, Wissen und Fähigkeiten zu Open Science und Open Data in der Forschungsgemeinschaft der Sonderpädagogik zu verbreiten und zu diskutieren. 
 
+## Wer hostet den Blog?
+
 Der Blog wird gehostet von Timo Lüke und Jürgen Wilbert
+
+## Hast Du weitere Fragen, Diskussionspunkte oder Anmerkungen?

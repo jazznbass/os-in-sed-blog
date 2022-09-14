@@ -1,9 +1,0 @@
----
-title: "FAQ"
-comments: 
-  giscus: 
-    repo: jazznbass/os-in-sed-blog
----
-
-Hast Du weitere Fragen, Diskussionspunkte oder Anmerkungen?
-Diskutiere mit!
