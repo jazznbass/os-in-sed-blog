@@ -1,0 +1,15 @@
+---
+title: "Wilkommen von Jürgen"
+author: "Jürgen Wilbert"
+date: "2022-09-13"
+categories:
+  - sonstiges
+---
+
+Wilkommen zum **OS in SED** Blog!
+
+![](images/paste-37E60745.png)
+
+Weiteres über mich und meine Arbeit findet sich auf meiner persönlichen Homepage:
+
+<https://jazznbass.github.io/homepage/>

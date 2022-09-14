@@ -2,7 +2,9 @@
 title: "Setup a new github project in Rstudio"
 author: "Jürgen Wilbert"
 date: "2022-09-14"
-categories: [news, code, github]
+categories: 
+  - github
+  - rstudio
 image: images/paste-B8BA3A58.png
 ---
 

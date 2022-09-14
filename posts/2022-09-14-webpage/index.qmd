@@ -1,0 +1,37 @@
+---
+title: Create Rmarkdown webpage on gitHub
+author: Jürgen Wilbert
+date: 2022-09-14
+categories: 
+  - rmarkdown
+  - github
+  - rstudio
+  - webpage
+image: images/logo.png
+---
+
+In less than 20 steps.
+
+1.  Create a new R Project:\
+    `File -> New Project -> New Directory -> Simple Rmarkdown website`
+2.  Open new project
+3.  Activate "git" versioning for this project (`tools -> project Options -> Git/SVN`)
+4.  Edit the YAML file `_site.yml`:\
+    add the line: \`output_dir: "docs"\`\`
+5.  Build website: `Build -> Build all`
+6.  Change to Github Desktop
+7.  Add repository: `File -> Add local repository`
+8.  Click: Publish repository
+9.  Open Github in Webbrowser and login
+10. Go to the new published repository
+11. Click `Settings`
+12. Go to menu `Pages` or scroll to Github Pages
+13. At the field "Source" select `master`
+14. Change `select folder` from `\(root)` to `\docs`
+15. click save
+16. Copy (or remember) open the link to the new webpage that opens up! 
+17. Change to webpage project at RStudio
+18. Commit **and** publish all files `[tab] Git -> Commit`
+19. Change to the new webpage address you remembered/copied or opened! (probably wait 30 seconds and renew the page)
+
+That's it!

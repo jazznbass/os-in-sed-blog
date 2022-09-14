@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "posts/setup-github/index.html",
-    "href": "posts/setup-github/index.html",
+    "objectID": "posts/2022-09-14-welcome/index.html",
+    "href": "posts/2022-09-14-welcome/index.html",
+    "title": "Wilkommen von Jürgen",
+    "section": "",
+    "text": "Weiteres über mich und meine Arbeit findet sich auf meiner persönlichen Homepage:\nhttps://jazznbass.github.io/homepage/"
+  },
+  {
+    "objectID": "posts/2022-09-14-webpage/index.html",
+    "href": "posts/2022-09-14-webpage/index.html",
+    "title": "Create Rmarkdown webpage on gitHub",
+    "section": "",
+    "text": "Create a new R Project:\nFile -> New Project -> New Directory -> Simple Rmarkdown website\nOpen new project\nActivate “git” versioning for this project (tools -> project Options -> Git/SVN)\nEdit the YAML file _site.yml:\nadd the line: `output_dir: “docs”``\nBuild website: Build -> Build all\nChange to Github Desktop\nAdd repository: File -> Add local repository\nClick: Publish repository\nOpen Github in Webbrowser and login\nGo to the new published repository\nClick Settings\nGo to menu Pages or scroll to Github Pages\nAt the field “Source” select master\nChange select folder from \\(root) to \\docs\nclick save\nCopy (or remember) open the link to the new webpage that opens up!\nChange to webpage project at RStudio\nCommit and publish all files [tab] Git -> Commit\nChange to the new webpage address you remembered/copied or opened! (probably wait 30 seconds and renew the page)\n\nThat’s it!"
+  },
+  {
+    "objectID": "posts/2022-09-14-setup-github/index.html",
+    "href": "posts/2022-09-14-setup-github/index.html",
     "title": "Setup a new github project in Rstudio",
     "section": "",
     "text": "Start a new RStudio Project\nTools –> Project Options –> Git/SVN: Set Version Control System to Git\nCommit a first file\nChange to Github Desktop\nFile –> Add local repository: Add the new project folder\nOn the main screen click: Add/push repository to git (or similar)\nGive the repository a name: evoila!\n\nOptional:\nChange to Rstudio\nPull and Push committed files"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome from Jürgen",
-    "section": "",
-    "text": "You can find more Information on my webpage:\nhttps://jazznbass.github.io/homepage/"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "OS in SED",
     "section": "",
-    "text": "Setup a new github project in Rstudio\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\ngithub\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nJürgen Wilbert\n\n\n\n\n\n\n  \n\n\n\n\nWelcome from Jürgen\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nJürgen Wilbert\n\n\n\n\n\n\nNo matching items"
+    "text": "Create Rmarkdown webpage on gitHub\n\n\n\n\n\n\n\nrmarkdown\n\n\ngithub\n\n\nrstudio\n\n\nwebpage\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nJürgen Wilbert\n\n\n\n\n\n\n  \n\n\n\n\nSetup a new github project in Rstudio\n\n\n\n\n\n\n\ngithub\n\n\nrstudio\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nJürgen Wilbert\n\n\n\n\n\n\n  \n\n\n\n\nWilkommen von Jürgen\n\n\n\n\n\n\n\nsonstiges\n\n\n\n\n\n\n\n\n\n\n\nSep 13, 2022\n\n\nJürgen Wilbert\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "faq.html",

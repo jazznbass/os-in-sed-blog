@@ -9,7 +9,7 @@
 <meta name="author" content="Jürgen Wilbert">
 <meta name="dcterms.date" content="2022-09-14">
 
-<title>OS in SED - Welcome from Jürgen</title>
+<title>OS in SED - Create Rmarkdown webpage on gitHub</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -99,9 +99,12 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Welcome from Jürgen</h1>
+      <h1 class="title">Create Rmarkdown webpage on gitHub</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">news</div>
+                <div class="quarto-category">rmarkdown</div>
+                <div class="quarto-category">github</div>
+                <div class="quarto-category">rstudio</div>
+                <div class="quarto-category">webpage</div>
               </div>
                   </div>
   </div>
@@ -136,10 +139,31 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Welcome to the <strong>OS in SED</strong> Blog!</p>
-<p><img src="images/paste-37E60745.png" class="img-fluid"></p>
-<p>You can find more Information on my webpage:</p>
-<p><a href="https://jazznbass.github.io/homepage/" class="uri">https://jazznbass.github.io/homepage/</a></p>
+<p>In less than 20 steps.</p>
+<ol type="1">
+<li>Create a new R Project:<br>
+<code>File -&gt; New Project -&gt; New Directory -&gt; Simple Rmarkdown website</code></li>
+<li>Open new project</li>
+<li>Activate “git” versioning for this project (<code>tools -&gt; project Options -&gt; Git/SVN</code>)</li>
+<li>Edit the YAML file <code>_site.yml</code>:<br>
+add the line: `output_dir: “docs”``</li>
+<li>Build website: <code>Build -&gt; Build all</code></li>
+<li>Change to Github Desktop</li>
+<li>Add repository: <code>File -&gt; Add local repository</code></li>
+<li>Click: Publish repository</li>
+<li>Open Github in Webbrowser and login</li>
+<li>Go to the new published repository</li>
+<li>Click <code>Settings</code></li>
+<li>Go to menu <code>Pages</code> or scroll to Github Pages</li>
+<li>At the field “Source” select <code>master</code></li>
+<li>Change <code>select folder</code> from <code>\(root)</code> to <code>\docs</code></li>
+<li>click save</li>
+<li>Copy (or remember) open the link to the new webpage that opens up!</li>
+<li>Change to webpage project at RStudio</li>
+<li>Commit <strong>and</strong> publish all files <code>[tab] Git -&gt; Commit</code></li>
+<li>Change to the new webpage address you remembered/copied or opened! (probably wait 30 seconds and renew the page)</li>
+</ol>
+<p>That’s it!</p>
 
 
 
