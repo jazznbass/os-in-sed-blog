@@ -1,0 +1,14 @@
+---
+title: "Welcome from Jürgen"
+author: "Jürgen Wilbert"
+date: "2022-09-14"
+categories: [news]
+---
+
+Welcome to the **OS in SED** Blog!
+
+![](images/paste-37E60745.png)
+
+You can find more Information on my webpage:
+
+<https://jazznbass.github.io/homepage/>
