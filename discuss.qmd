@@ -1,0 +1,9 @@
+---
+title: "Discuss"
+comments: 
+  giscus: 
+    repo: jazznbass/os-in-sed-blog
+---
+
+Hast Du Fragen, Dikussionspunkte oder Anmerkungen?
+Diskutiere mit!
