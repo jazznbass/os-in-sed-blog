@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/setup-github/index.html",
+    "href": "posts/setup-github/index.html",
+    "title": "Setup a new github project in Rstudio",
+    "section": "",
+    "text": "Start a new RStudio Project\nTools –> Project Options –> Git/SVN: Set Version Control System to Git\nCommit a first file\nChange to Github Desktop\nFile –> Add local repository: Add the new project folder\nOn the main screen click: Add/push repository to git (or similar)\nGive the repository a name: evoila!\n\nOptional:\nChange to Rstudio\nPull and Push committed files"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome from Jürgen",
+    "section": "",
+    "text": "You can find more Information on my webpage:\nhttps://jazznbass.github.io/homepage/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OS in SED",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\ngithub\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nJürgen Wilbert\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nJürgen Wilbert\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "It is maintained and hosted by Timo Lüke and Jürgen Wilbert."
+  }
+]
