@@ -35,6 +35,13 @@
     "text": "Wer hostet den Blog?\nDer Blog wird gehostet von Timo Lüke und Jürgen Wilbert"
   },
   {
+    "objectID": "faq.html#wie-wird-der-blog-technisch-gehostet",
+    "href": "faq.html#wie-wird-der-blog-technisch-gehostet",
+    "title": "FAQ",
+    "section": "Wie wird der Blog technisch gehostet?",
+    "text": "Wie wird der Blog technisch gehostet?\nDer Blog wird kostenfrei auf Github pages gehostet. Die Einträge und die Webseite selbst werden mit Quatro in RStudio erstellt."
+  },
+  {
     "objectID": "faq.html#hast-du-weitere-fragen-diskussionspunkte-oder-anmerkungen",
     "href": "faq.html#hast-du-weitere-fragen-diskussionspunkte-oder-anmerkungen",
     "title": "FAQ",

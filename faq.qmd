@@ -5,13 +5,16 @@ comments:
     repo: jazznbass/os-in-sed-blog
 ---
 
-
 ## Warum gibt es diesen Blog?
 
-Dieser Blog möchte dazu beitragen, Wissen und Fähigkeiten zu Open Science und Open Data in der Forschungsgemeinschaft der Sonderpädagogik zu verbreiten und zu diskutieren. 
+Dieser Blog möchte dazu beitragen, Wissen und Fähigkeiten zu Open Science und Open Data in der Forschungsgemeinschaft der Sonderpädagogik zu verbreiten und zu diskutieren.
 
 ## Wer hostet den Blog?
 
 Der Blog wird gehostet von Timo Lüke und Jürgen Wilbert
+
+## Wie wird der Blog technisch gehostet?
+
+Der Blog wird kostenfrei auf [Github](https://github.com/jazznbass/os-in-sed-blog) pages gehostet. Die Einträge und die Webseite selbst werden mit [Quatro](https://quarto.org/) in [RStudio](https://www.rstudio.com/products/rstudio/) erstellt.
 
 ## Hast Du weitere Fragen, Diskussionspunkte oder Anmerkungen?
