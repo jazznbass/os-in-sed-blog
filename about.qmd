@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Über uns"
 image: images/paste-BC992E03.png
 about:
   template: jolla
