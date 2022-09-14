@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+comments: 
+  giscus: 
+    repo: jazznbass/os-in-sed-blog
 ---
 
 This is a blog for sharing practices and knowledge on open science for the special education community in Germany.
