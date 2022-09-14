@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "OS in SE"
-  favicon: "images/favicon.png"
+  favicon: "favicon.png"
   navbar:
+    logo: images/navbar.png
     right:
       - faq.qmd
       - icon: github
